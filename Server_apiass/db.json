@@ -1,0 +1,125 @@
+{
+  "posts": [
+    {
+      "postTile": "hahaha",
+      "postImage": "https://i.pinimg.com/564x/ca/c5/52/cac552f57f6d2115a8e8bad3f7a9df56.jpg",
+      "contenPost": "hihihi",
+      "status": false,
+      "postUserName": "dungdeptrai",
+      "postPersonImage": "https://i.pinimg.com/564x/bf/05/1a/bf051a78ba136693081cfa276460413d.jpg",
+      "id": 1
+    },
+    {
+      "postTile": "",
+      "postImage": "",
+      "contenPost": "",
+      "status": null,
+      "postUserName": "dungdeptrai",
+      "postPersonImage": "https://i.pinimg.com/564x/bf/05/1a/bf051a78ba136693081cfa276460413d.jpg",
+      "id": 2
+    },
+    {
+      "postTile": "Án trăng",
+      "postImage": "https://i.pinimg.com/564x/72/5d/f9/725df919b7ecaec97c563dcb5d13185a.jpg",
+      "contenPost": "hahahahahha",
+      "status": false,
+      "postUserName": "dungdeptrai",
+      "postPersonImage": "https://i.pinimg.com/564x/bf/05/1a/bf051a78ba136693081cfa276460413d.jpg",
+      "id": 3
+    },
+    {
+      "postTile": "Ây cha",
+      "postImage": "https://i.pinimg.com/564x/0f/a1/10/0fa110d58f28d57795e9a5c2f6473ff1.jpg",
+      "contenPost": "Qu´đẹp",
+      "status": false,
+      "postUserName": "dungdeptrai",
+      "postPersonImage": "https://i.pinimg.com/564x/40/df/ab/40dfab932b81dd2a0099afcf61b0a634.jpg",
+      "id": 4
+    },
+    {
+      "postTile": "Hi",
+      "postImage": "https://i.pinimg.com/564x/0f/a1/10/0fa110d58f28d57795e9a5c2f6473ff1.jpg",
+      "contenPost": "hahaha",
+      "status": false,
+      "postUserName": "dungdeptrai",
+      "postPersonImage": "https://i.pinimg.com/564x/0f/a1/10/0fa110d58f28d57795e9a5c2f6473ff1.jpg",
+      "id": 5
+    },
+    {
+      "postTile": "Đanvư",
+      "postImage": "https://i.pinimg.com/564x/28/d7/d5/28d7d5711630f0f11c9024ca4198ee22.jpg",
+      "contenPost": "alo",
+      "status": false,
+      "postUserName": "dungdeptrai",
+      "postPersonImage": "https://i.pinimg.com/564x/0f/a1/10/0fa110d58f28d57795e9a5c2f6473ff1.jpg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "dung@hi.bt",
+      "password": "$2a$10$WkT./SgFtYLfrI2SExRdOehrhXkMClGxixpO5ZNF04/E80jgElSxi",
+      "avata": "https://i.pinimg.com/564x/bf/05/1a/bf051a78ba136693081cfa276460413d.jpg",
+      "id": 1
+    },
+    {
+      "email": "dunghuyen@hi.bt",
+      "password": "$2a$10$qiTi7HrJRc7ZbVuBa6m1wutfWeU3l0PcbWq01XOs.fSBAV2ZHRQTG",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "id": 2
+    },
+    {
+      "email": "hshshs@aa.aaA",
+      "userName": "tatat",
+      "password": "$2a$10$KAdUh7OodrdHCrkkN/2vKum4pLbDjPJa7YAX7nJ2kLKCUkoSF9AEW",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "id": 3
+    },
+    {
+      "email": "huyen@qq.cc",
+      "userName": "dung",
+      "password": "$2a$10$7J8c/0owmmuZtytvyqRuxeh1ZuZ/hIW.gGhpV7vbgv8lO93hcYkNe",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "id": 4
+    },
+    {
+      "email": "hshshs@aa.aa",
+      "userName": "tatat",
+      "password": "$2a$10$H7hD/AMntus8HipdV52Qz.m5YU4T284Rm4ftyCCXRpth0vPcxZXVu",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "id": 5
+    },
+    {
+      "email": "huyen@qq.cc",
+      "password": "$2a$10$U/ZHvHleUwQYJf3c4Fm43ubycC3Pl/XIQl8et5K0mJfBqigbyVxTy",
+      "userName": "dung",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "id": 6
+    },
+    {
+      "email": "dung@dep.trai",
+      "password": "$2a$10$kEoUzLFNWY810GzEE2TlmO5SIJGlDG2IbyYzQeACIIvH994PX1XFm",
+      "userName": "dungdeptrai",
+      "avata": "https://i.pinimg.com/564x/0f/a1/10/0fa110d58f28d57795e9a5c2f6473ff1.jpg",
+      "quyen": true,
+      "id": 7
+    },
+    {
+      "email": "dung22@la.la",
+      "password": "$2a$10$x0rrQRp.U83zyNUEocIL9Odt62WFGRISuI3jmuJBe6/SfiaC2x2vW",
+      "userName": "dung22",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "quyen": false,
+      "id": 8
+    },
+    {
+      "email": "dung1@la.la",
+      "password": "$2a$10$qku66kT60JJA8P2O6GmfmeoGFTVFKtZNsUG/Nh4iVnvXac/XQg9Mq",
+      "userName": "dung1",
+      "avata": "https://i.pinimg.com/564x/1f/98/0f/1f980f73ed94cfcbc16dfd3467f71213.jpg",
+      "quyen": "false",
+      "id": 9
+    }
+  ],
+  "likes": []
+}
